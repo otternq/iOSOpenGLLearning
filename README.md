@@ -7,7 +7,7 @@ This repository is for me to prepare for [CS428](http://www2.cs.uidaho.edu/~jeff
 
 Goals
 -----
-- To create an Android Aplication using OpenGL
+- To create an iOS Aplication using OpenGL
 - Allow a user to move an object on the screen
 - Allow a user to rotate an object or camera view
 
